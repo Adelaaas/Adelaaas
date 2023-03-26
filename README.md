@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Khasanova Adelya, 25 y.o.
 
 <!--
 **Adelaaas/Adelaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Education**
+
+NRNU MEPhI, bachelor (2015-2019), "Informatics and Computer Engineering"
+NRNU MEPhI, master (2019-2021), "Software engineering"
+
