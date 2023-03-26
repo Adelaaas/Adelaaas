@@ -21,7 +21,7 @@ NRNU MEPhI, bachelor (2015-2019), "Informatics and Computer Engineering"
 
 NRNU MEPhI, master (2019-2021), "Software engineering"
 
-**Repositories for education**
+### Repositories for education
 
 Since I teach data analysis and artificial intelligence for schoolchildren and students (MEPhI, MISIS, MEPhI lyceum), here are the repositories that I use for teaching:
 
@@ -36,5 +36,10 @@ Since I teach data analysis and artificial intelligence for schoolchildren and s
 **2020-2021 academic year:**
 1. Advanced level for 11th grade: [here](https://github.com/Adelaaas/Data_science).
 
+### My own projects
 
+1. [Repository](https://github.com/Adelaaas/Ya_professional) with solving problems for the Olympiad "I am a professional" in the direction of "Artificial intelligence (2020-2023).
+2. Hackathon [solution](https://github.com/Adelaaas/Profi_hack_clever) from VK and MIPT (2021) (**NLP** task).
+3. [Solution](https://github.com/Adelaaas/Natural-Language-Processing-with-Disaster-Tweets) to the [kaggle competition](https://www.kaggle.com/c/nlp-getting-started).
+4. Clustering Application Development Tutorial  [Project](https://github.com/Adelaaas/Guess_the_numbers).
 
