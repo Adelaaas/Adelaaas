@@ -21,3 +21,20 @@ NRNU MEPhI, bachelor (2015-2019), "Informatics and Computer Engineering"
 
 NRNU MEPhI, master (2019-2021), "Software engineering"
 
+**Repositories for education**
+
+Since I teach data analysis and artificial intelligence for schoolchildren and students (MEPhI, MISIS, MEPhI lyceum), here are the repositories that I use for teaching:
+
+**2022-2023 academic year:**
+1. Basic level for grades 10-11: [https://github.com/Adelaaas/Data_science_basic_22-23_1]here и [https://github.com/Adelaaas/Data_science_basic_22-23_2]here.
+2. Advanced level for 11th grade: [https://github.com/Adelaaas/Data_science_advanced_2022]here.
+
+**2021-2022 academic year:**
+1. Basic level for grades 10-11: [https://github.com/Adelaaas/Data_science_basic_2]here и [https://github.com/Adelaaas/Data_science_basic_1]here.
+2. Advanced level for 11th grade: [https://github.com/Adelaaas/Data_science_advanced]here.
+
+**2020-2021 academic year:**
+1. Advanced level for 11th grade: [https://github.com/Adelaaas/Data_science]here.
+
+
+
