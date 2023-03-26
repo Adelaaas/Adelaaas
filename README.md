@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 **Education**
 
 NRNU MEPhI, bachelor (2015-2019), "Informatics and Computer Engineering"
+
 NRNU MEPhI, master (2019-2021), "Software engineering"
 
