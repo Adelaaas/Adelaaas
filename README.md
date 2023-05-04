@@ -28,5 +28,6 @@ Since I teach data analysis and artificial intelligence for schoolchildren and s
 3. [Solution](https://github.com/Adelaaas/Natural-Language-Processing-with-Disaster-Tweets) to the [kaggle competition](https://www.kaggle.com/c/nlp-getting-started).
 4. Clustering Application Development Tutorial  [Project](https://github.com/Adelaaas/Guess_the_numbers).
 5. Научно-исследовательский хакатон по физике (21-23 апреля 2023). [Решение](https://github.com/Adelaaas/Physics_Hack) заняло 2 место.
-6. IT Hack of Rosatom [solution](https://github.com/Adelaaas/it_hack_Rosatom)
+6. IT Hack of Rosatom [solution](https://github.com/Adelaaas/it_hack_Rosatom).
+7. Lamoda images classification [project](https://github.com/Adelaaas/Lamoda_classification_project).
 
