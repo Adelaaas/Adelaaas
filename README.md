@@ -1,20 +1,5 @@
 ### I'm Khasanova Adelya, 25 y.o.
 
-<!--
-**Adelaaas/Adelaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 **Education**
 
 NRNU MEPhI, bachelor (2015-2019), "Informatics and Computer Engineering"
@@ -43,4 +28,5 @@ Since I teach data analysis and artificial intelligence for schoolchildren and s
 3. [Solution](https://github.com/Adelaaas/Natural-Language-Processing-with-Disaster-Tweets) to the [kaggle competition](https://www.kaggle.com/c/nlp-getting-started).
 4. Clustering Application Development Tutorial  [Project](https://github.com/Adelaaas/Guess_the_numbers).
 5. Научно-исследовательский хакатон по физике (21-23 апреля 2023). [Решение](https://github.com/Adelaaas/Physics_Hack) заняло 2 место.
+6. IT Hack of Rosatom [solution](https://github.com/Adelaaas/it_hack_Rosatom)
 
