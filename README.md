@@ -42,4 +42,5 @@ Since I teach data analysis and artificial intelligence for schoolchildren and s
 2. Hackathon [solution](https://github.com/Adelaaas/Profi_hack_clever) from VK and MIPT (2021) (**NLP** task).
 3. [Solution](https://github.com/Adelaaas/Natural-Language-Processing-with-Disaster-Tweets) to the [kaggle competition](https://www.kaggle.com/c/nlp-getting-started).
 4. Clustering Application Development Tutorial  [Project](https://github.com/Adelaaas/Guess_the_numbers).
+5. Научно-исследовательский хакатон по физике (21-23 апреля 2023). [Решение](https://github.com/Adelaaas/Physics_Hack) заняло 2 место.
 
