@@ -1,4 +1,4 @@
-### I'm Khasanova Adelya, 25 y.o.
+### I'm Khasanova Adelya, 28 y.o.
 
 **Education**
 
