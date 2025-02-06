@@ -21,6 +21,18 @@ NRNU MEPhI, master (2019-2021), "Software engineering"
 
 Since I teach data analysis and artificial intelligence for schoolchildren and students (MEPhI, MISIS, MEPhI lyceum), here are the repositories that I use for teaching:
 
+**2024-2025 academic year:**
+1. Basic level for grades 10-11: [here](https://github.com/Adelaaas/Data_science_basic_24_25_group_1) and [here](https://github.com/Adelaaas/Data_science_basic_24_25_group_2).
+2. Advanced level for 11th grade: [here](https://github.com/Adelaaas/Data_science_advanced_24-25).
+3. Clasical ML for MEPhI student's: [here](https://github.com/ShadarRim/24MEPhIAI)
+4. Clasical ML for MISIS student's: [here](https://github.com/ShadarRim/24MISISAI)
+   
+**2023-2024 academic year:**
+1. Basic level for grades 10-11: [here](https://github.com/Adelaaas/Data_science_basic_23-24_1) and [here](https://github.com/Adelaaas/Data_science_basic_23-24_2).
+2. Advanced level for 11th grade: [here](https://github.com/Adelaaas/Data_science_advanced_2023-2024).
+3. Clasical ML for MISIS student's: [here](https://github.com/ShadarRim/MISiSAI1)
+4. DeepLearning for MISIS student's: [here](https://github.com/ShadarRim/MISIS_AI2_2024)
+   
 **2022-2023 academic year:**
 1. Basic level for grades 10-11: [here](https://github.com/Adelaaas/Data_science_basic_22-23_1) and [here](https://github.com/Adelaaas/Data_science_basic_22-23_2).
 2. Advanced level for 11th grade: [here](https://github.com/Adelaaas/Data_science_advanced_2022).
